@@ -12,3 +12,6 @@ Several deep neural network based prediction approaches have been proposed in th
 ## Results
 This study investigated the NARX model's performance compared to NIO, NAR, RNN, and CFNN models in forecasting the wind time series. The experimental results included the MSE (mean square error) graphs of the NARX, NAR, and NIO models in the training phase; the WSP (wind speed prediction) results comparisons among NARX, RNN, and CFNN models; the Error-Histogram of the NARX, RNN, and CFNN models; the auto-correlations of the WSP errors of NARX, RNN, and CFNN models; and the input-error cross-correlation of the NARX, RNN, and CFNN models.
 
+## Contact
+Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
+
