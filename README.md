@@ -15,3 +15,7 @@ This study investigated the NARX model's performance compared to NIO, NAR, RNN, 
 ## Contact
 Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
 
+## Citation
+Md. Mijanur Rahman, "Deep Neural Network based Approaches in Wind Time Series Forecasting", Github Repository, September 2021. https://github.com/mijancse/Deep-Neural-Network-based-Approaches-in-Wind-Time-Series-Forecasting
+
+
