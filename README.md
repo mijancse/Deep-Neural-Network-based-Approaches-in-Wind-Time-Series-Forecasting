@@ -18,4 +18,7 @@ Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Ja
 ## Citation
 Md. Mijanur Rahman, "Deep Neural Network based Approaches in Wind Time Series Forecasting", Github Repository, September 2021. https://github.com/mijancse/Deep-Neural-Network-based-Approaches-in-Wind-Time-Series-Forecasting
 
+## Paper Citation
+Rahman, M.M., Shakeri, M., Khatun, F. et al. A comprehensive study and performance analysis of deep neural network-based approaches in wind time-series forecasting. J Reliable Intell Environ (2022). https://doi.org/10.1007/s40860-021-00166-x
+
 
